@@ -7,7 +7,8 @@ The "merged" data can be found here:
 
 - [Merged](https://github.com/betsyjwolf/what-works-clearinghouse-data_2_10_25/tree/main/WWC-export-archive-2025-Feb-10-160829)
 
-The separate files (study, findings, intervention report) data can be found here:
+The separate (study, findings, intervention report) data can be found here:
+- [Separate](https://github.com/betsyjwolf/what-works-clearinghouse-data_2_10_25/tree/main/WWC-export-archive-2025-Feb-10-160910)
 
 
 ## License to Use These Data
