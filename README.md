@@ -3,9 +3,12 @@ This is a backup of the WWC study data from the public extract tool from Februar
 
 ## Data
 
-The data can be found below:
+The "merged" data can be found here:
 
-- [Data](https://github.com/betsyjwolf/evidence-maps/blob/master/evidence_gap_v3.csv)
+- [Merged](https://github.com/betsyjwolf/what-works-clearinghouse-data_2_10_25/tree/main/WWC-export-archive-2025-Feb-10-160829)
+
+The separate files (study, findings, intervention report) data can be found here:
+
 
 ## License to Use These Data
 
